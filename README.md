@@ -1,7 +1,12 @@
 # BioSense PH: Machine Learning ECG Reliability Assessment Prototype
 
-**Course:** BIO 405 / BSBIOENG-3101 Programming and Modelling  
-**Institution:** Batangas State University / USTP Biomedical Engineering  
+**Course:** BIOE 405 - Programming and Modelling for BioE  
+
+**Block:** BSBIOENG-3101
+
+**Group No.:** 1
+
+**School:** Batangas State University, The National Engineering University / Bachelor of Science in Biomedical Engineering
 
 ## Overview
 This repository contains an integrated biomedical signal processing and machine learning prototype that evaluates the reliability of ECG-derived heart rates under controlled physiological noise conditions.
