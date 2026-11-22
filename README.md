@@ -1,19 +1,17 @@
-# BioSense PH: Machine Learning ECG Reliability Assessment Prototype
+# BioSense PH: ECG Noise Classification & Heart Rate Reliability Assessment
 
-**Course:** BIOE 405 - Programming and Modelling for BioE  
-
-**Block:** BSBIOENG-3101
-
-**Group No.:** 1
-
-**School:** Batangas State University, The National Engineering University / Bachelor of Science in Biomedical Engineering
+**Course:** BIOE 405 – Programming and Modelling for BioE  
+**Block:** BSBIOENG-3101  
+**Group No.:** 1  
+**Institution:** Batangas State University, The National Engineering University (BS Biomedical Engineering)
 
 ## Overview
-This repository contains an integrated biomedical signal processing and machine learning prototype that evaluates the reliability of ECG-derived heart rates under controlled physiological noise conditions.
+This repository contains an interactive browser-based research prototype for exploring ECG disturbance classification and heart rate reliability gating under controlled noise conditions (`250 Hz` window analysis, `5–20 Hz` and `8–30 Hz` bandpass peak detectors, spectral/temporal features, and Random Forest reliability scoring).
 
-## Quickstart & Launch Instructions
+> **Note:** This is a research and educational prototype for demonstration and methodological exploration; it is not a clinically validated medical device.
 
-1. **Clone the repository:**
+## Quickstart & Usage
+1. Clone the repository:
    ```bash
-git clone https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git
-cd biosense-ecg-reliability
+   git clone [https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git](https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git)
+   cd biosense-ecg-reliability
