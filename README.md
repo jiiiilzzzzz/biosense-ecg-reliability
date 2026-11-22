@@ -13,4 +13,4 @@ This repository contains an interactive browser-based research prototype for exp
 ## Quickstart & Usage
 1. Clone the repository:
    ```bash
-git clone https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git && cd biosense-ecg-reliability
+   git clone https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git && cd biosense-ecg-reliability
