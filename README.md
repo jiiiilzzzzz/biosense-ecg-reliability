@@ -15,5 +15,5 @@ This repository contains an integrated biomedical signal processing and machine 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/biosense-ecg-reliability.git](https://github.com/your-username/biosense-ecg-reliability.git)
-   cd biosense-ecg-reliability
+git clone https://github.com/jiiiiilzzzzz/biosense-ecg-reliability.git
+cd biosense-ecg-reliability
